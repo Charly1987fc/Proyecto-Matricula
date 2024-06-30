@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\ProyectoMatriculaApp\bin\Debug\ProyectoMatriculaApp.exe.config
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\ProyectoMatriculaApp\bin\Debug\ProyectoMatriculaApp.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\ProyectoMatriculaApp\bin\Debug\ProyectoMatriculaApp.pdb
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\ProyectoMatriculaApp\obj\Debug\ProyectoMatriculaApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\ProyectoMatriculaApp\obj\Debug\ProyectoMatriculaApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\ProyectoMatriculaApp\obj\Debug\ProyectoMatriculaApp.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\ProyectoMatriculaApp\obj\Debug\ProyectoMatriculaApp.pdb
